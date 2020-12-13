@@ -7,4 +7,4 @@
 Argon2 is the industry specified hashing algorithm. Winner of [Password Hashing Competition](https://www.password-hashing.net/), argon2 is the latest and most secured password hashing algorithm.
 
 ### Overview of the prgram
-The user will input a file and password, and the program will return the salt, iv(initialization vector), hashed_password(will not be same or related in anyway to the key) and encrypted data. In no manner will the key, password or the original file will be stored on the system. At each time the user wants to access the data. Key will be generated and the user has to input the password.
+The user will input a file and password, and the program will return the salt, iv(initialization vector), hashed_password(will not be same or related in anyway to the key) and encrypted data. In no manner will the key, password or the original file will be stored on the system. At each time the user wants to access the data, Key will be generated and the user has to input the password.
