@@ -1,5 +1,5 @@
 # Advanced-Encryption-Standard-AES-for-data-encryption
-**Advanced Encryption Standard(AES) protocol will used to encrypt data, with usage of PHC winner argon2 to generate key** 
+**Advanced Encryption Standard(AES) protocol will be used to encrypt data, with usage of PHC winner argon2 to generate key** 
 ### Advanced Encryption Standard(AES)
 [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), also known by its original name Rijndael (Dutch pronunciation: [ˈrɛindaːl]), is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
 
